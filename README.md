@@ -1,7 +1,7 @@
 
 # Projet L3
 
-Altinkaynak Sema
+Altinkaynak Sema<br>
 Kaddeche Amel
 
 Ce projet avait pour but d'utiliser sonarqube afin de faire de la maintenance applicative et améliorer la qualité du code du logiciel Gson.
