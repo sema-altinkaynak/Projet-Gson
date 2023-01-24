@@ -1,3 +1,12 @@
+
+# Projet L3
+
+Altinkaynak Sema
+Kaddeche Amel
+
+Ce projet avait pour but d'utiliser sonarqube afin de faire de la maintenance applicative et améliorer la qualité du code du logiciel Gson.
+
+
 # Gson
 
 Gson is a Java library that can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object.
